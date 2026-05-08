@@ -13,7 +13,6 @@ from pathlib import Path
 import random
 
 from langchain_groq import ChatGroq
-from langchain.chains import LLMChain
 from langchain_core.prompts import PromptTemplate
 from langchain_community.vectorstores import FAISS
 from langchain_text_splitters import RecursiveCharacterTextSplitter
@@ -112,8 +111,8 @@ If the answer is not in the provided context, say "I don't have information abou
 """
                     )
                     
-                    chain = LLMChain(llm=llm, prompt=prompt)
-                    answer = chain.run(context=context, question=customer_question)
+                    chain = prompt | llm
+                    answer = chain.invoke({"context": context, "question": customer_question}).content
                     
                     st.success("✅ Answer Generated")
                     st.markdown(f"**Customer:** {customer_question}")
@@ -278,8 +277,8 @@ A: [Answer]
 Ensure you include ALL topics mentioned in the tickets. Make FAQs clear, helpful, and customer-friendly. Include specific details like pricing amounts, timeframes, and process steps where applicable."""
                     )
                     
-                    chain = LLMChain(llm=llm, prompt=prompt)
-                    faq_content = chain.run(tickets=all_tickets_text)
+                    chain = prompt | llm
+                    faq_content = chain.invoke({"tickets": all_tickets_text}).content
                     
                     st.success("✅ Comprehensive FAQ Generated!")
                     st.markdown(faq_content)
@@ -337,8 +336,8 @@ SCORE: 8
 REASON: Customer expressed satisfaction and appreciation for the service."""
             )
             
-            chain = LLMChain(llm=llm, prompt=prompt)
-            result = chain.run(text=user_feedback)
+            chain = prompt | llm
+            result = chain.invoke({"text": user_feedback}).content
             
             try:
                 sentiment = result.split("SENTIMENT:")[1].split("\n")[0].strip()
@@ -438,8 +437,8 @@ SENTIMENT: Positive
 SCORE: 8"""
                     )
                     
-                    chain = LLMChain(llm=llm, prompt=prompt)
-                    result = chain.run(text=feedback_text)
+                    chain = prompt | llm
+                    result = chain.invoke({"text": feedback_text}).content
                     
                     try:
                         sentiment = result.split("SENTIMENT:")[1].split("\n")[0].strip()
