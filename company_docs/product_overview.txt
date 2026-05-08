@@ -1,0 +1,43 @@
+TechNova CRM Product Overview
+
+TechNova CRM is an enterprise-grade customer relationship management platform designed to help businesses automate customer support, sales workflows, and analytics.
+
+Core Features:
+- AI Chatbot Integration
+- Lead Management
+- Customer Ticketing System
+- Revenue Analytics Dashboard
+- Sentiment Analysis
+- Workflow Automation
+- API Integrations
+- Real-Time Notifications
+
+Modules:
+1. Sales Dashboard
+2. Customer Support Center
+3. Analytics & Reporting
+4. Billing Management
+5. User Administration
+6. AI Assistant
+
+Supported Platforms:
+- Web Application
+- Android App
+- iOS App
+
+System Requirements:
+- Modern Browser (Chrome, Firefox, Edge, Safari)
+- Minimum 8GB RAM
+- Stable Internet Connection
+
+Security:
+- AES-256 Encryption
+- Multi-Factor Authentication
+- Role-Based Access Control
+- Daily Automated Backups
+
+Cloud Infrastructure:
+Hosted on AWS with Kubernetes orchestration and PostgreSQL databases.
+
+Support:
+24/7 live chat and email support available for enterprise customers.

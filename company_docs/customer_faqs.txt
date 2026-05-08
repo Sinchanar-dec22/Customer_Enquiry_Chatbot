@@ -1,0 +1,44 @@
+Q: How do I reset my password?
+A: Click Forgot Password and follow email instructions.
+
+Q: How do I contact support?
+A: Email support@technova.com.
+
+Q: What browsers are supported?
+A: Chrome, Edge, Firefox, Safari.
+
+Q: Can I export reports?
+A: Yes, PDF, Excel, and CSV formats supported.
+
+Q: How do I enable two-factor authentication?
+A: Navigate to Security Settings.
+
+Q: What is the maximum upload size?
+A: 200MB per file.
+
+Q: Which file formats are supported?
+A: TXT and PDF.
+
+Q: Is API integration available?
+A: Yes, Enterprise plans include APIs.
+
+Q: How often are backups taken?
+A: Every 6 hours.
+
+Q: How do I change billing plans?
+A: Go to Billing > Subscription.
+
+Q: What payment methods are accepted?
+A: Credit card, UPI, PayPal, Net Banking.
+
+Q: Can I invite team members?
+A: Yes, under Team Management.
+
+Q: How to create support tickets?
+A: Navigate to Help Center > Create Ticket.
+
+Q: Is live chat available?
+A: Yes, 24/7 for Professional and Enterprise plans.
+
+Q: What happens during maintenance?
+A: Users are notified 24 hours in advance.

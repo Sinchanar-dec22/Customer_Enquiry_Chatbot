@@ -4,4 +4,13 @@ plotly
 langchain
 langchain-community
 langchain-groq
-sqlalchemy
+langchain-text-splitters
+faiss-cpu
+scikit-learn
+python-dotenv
+numpy
+PyYAML
+tf-keras
+torch>=2.0.0
+sentence-transformers==3.0.1
+transformers>=4.38.0

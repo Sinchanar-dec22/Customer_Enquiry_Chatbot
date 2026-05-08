@@ -1,0 +1,505 @@
+COMPANY POLICIES & PRICING GUIDE
+================================
+
+PRICING PLANS
+=============
+
+1. STARTER PLAN - ₹999/month
+   - Up to 5 users
+   - Basic CRM dashboard
+   - Email support
+   - Basic analytics
+   - Best for: Small teams and startups
+   - Contract term: Monthly (flexible)
+
+2. PROFESSIONAL PLAN - ₹2999/month
+   - Up to 25 users
+   - AI chatbot integration
+   - Advanced analytics
+   - API access (REST & GraphQL)
+   - Priority email support
+   - Best for: Growing businesses and teams
+   - Contract term: Monthly (flexible)
+
+3. ENTERPRISE PLAN - Custom Pricing
+   - Unlimited users
+   - Dedicated account manager
+   - 24/7 premium phone and chat support
+   - Advanced AI automation
+   - Custom integrations and API
+   - White-label options
+   - SLA guarantee (99.9% uptime)
+   - Best for: Large organizations and enterprises
+   - Contract term: Annual (customizable)
+
+BILLING OPTIONS
+===============
+
+Monthly Billing
+- Pay as you go
+- No long-term commitment
+- Flexible upgrades/downgrades
+- Billed on the same date every month
+
+Quarterly Billing
+- 5% discount on all plans
+- Bill every 3 months
+- Great for medium-term commitment
+
+Annual Billing
+- 15% discount on Starter plan
+- 20% discount on Professional plan
+- Custom discounts on Enterprise plan
+- Biggest savings for long-term users
+- Bill annually or monthly in installments
+
+ADD-ON SERVICES
+===============
+
+Additional Storage
+- Price: ₹499/month
+- Adds 100GB extra storage
+- Auto-renews monthly
+- Can be added/removed anytime
+
+Premium Analytics
+- Price: ₹999/month
+- Advanced dashboards and reports
+- Custom metrics and KPIs
+- Export reports in multiple formats
+- Dedicated analytics support
+
+Dedicated Support Engineer
+- Price: ₹4999/month
+- Direct line to support engineer
+- 1-hour response time guarantee
+- Proactive system monitoring
+- Quarterly business reviews
+
+PAYMENT METHODS
+===============
+
+Accepted Payment Methods:
+- Credit cards: Visa, MasterCard, American Express
+- Debit cards: Visa, MasterCard
+- Digital wallets: Apple Pay, Google Pay
+- PayPal and PayPal Credit
+- Bank transfers (for Enterprise customers)
+- Cheques (for annual contracts)
+
+Payment Security:
+- 256-bit SSL encryption for all transactions
+- PCI DSS Level 1 certified payment processing
+- Fraud detection and prevention
+- Secure tokenization of payment details
+- No storage of full credit card numbers
+
+REFUND POLICY
+=============
+
+7-Day Money-Back Guarantee
+- Full refund within 7 days of initial billing
+- No questions asked
+- No cancellation fees
+- Simple refund request process
+- Refund processed within 5-7 business days
+- Can be initiated through account settings or support
+
+Partial Refund (After 7 Days)
+- Refunds evaluated on case-by-case basis
+- Pro-rata refunds available for partial months
+- Downgrade to lower plan for remaining billing period
+- Contact support within 30 days of billing
+
+Non-Refundable Items
+- Add-on services used beyond 7 days
+- Custom development or integration work
+- Third-party services or licenses
+- Tax and transaction fees (where applicable)
+
+CANCELLATION POLICY
+====================
+
+How to Cancel
+1. Go to Account Settings > Billing > Subscription
+2. Click "Cancel Subscription"
+3. Select reason (optional feedback)
+4. Confirm cancellation
+5. Alternatively, contact support
+
+Cancellation Terms
+- Cancel anytime with no penalties
+- Access continues until end of current billing period
+- No refunds for already-paid months
+- Data retained for 30 days after cancellation
+- Can reactivate within 30 days
+- After 30 days, all data is permanently deleted
+
+Downgrade Instead
+- Instead of canceling, you can downgrade
+- Downgrade takes effect at end of billing cycle
+- No early termination fees
+- Retain all your data and history
+- Can upgrade again anytime
+
+DATA RETENTION POLICY
+====================
+
+Active Subscription
+- All data backed up daily
+- 99.9% uptime guarantee
+- Data encrypted at rest and in transit
+- Accessible 24/7 from any device
+
+After Cancellation
+- 30-day grace period for data retention
+- Can reactivate and restore all data anytime
+- After 30 days, automatic permanent deletion
+- Backup copies also deleted after 30 days
+- Cannot be recovered after deletion
+
+Data Export
+- Export all your data before cancellation
+- Multiple formats: CSV, JSON, Excel, PDF
+- Export includes: contacts, transactions, history
+- Exported data is yours to keep
+- No export fees or limitations
+
+SECURITY & COMPLIANCE
+=====================
+
+Data Protection
+- 256-bit AES encryption for all data
+- End-to-end encryption for sensitive information
+- Encrypted backups stored in multiple locations
+- Regular security audits by third-party firms
+- Penetration testing quarterly
+- Bug bounty program for security researchers
+
+Compliance Certifications
+- GDPR compliant (EU data protection)
+- CCPA compliant (California privacy)
+- HIPAA compliant (healthcare data)
+- SOC 2 Type II certified
+- ISO 27001 certified information security
+- Data residency options available
+
+Privacy
+- Your data is never sold or shared
+- No ads or tracking of user behavior
+- Third-party integrations only with permission
+- Detailed privacy policy available
+- Transparent data usage practices
+- User consent required for all processing
+
+ENTERPRISE FEATURES
+===================
+
+Custom Integrations
+- Connect to any third-party tool
+- Zapier integration marketplace
+- Custom API access
+- Webhook support for real-time updates
+- Data synchronization options
+- Dedicated technical team
+
+White-Label Solutions
+- Rebrand platform with your logo
+- Custom domain names
+- Customize colors and branding
+- Your support email and branding
+- Reselling options available
+
+Advanced Compliance
+- GDPR Data Processing Agreement (DPA)
+- HIPAA Business Associate Agreement (BAA)
+- Custom security requirements
+- Data residency (choose region)
+- Audit logs and compliance reports
+- SOC 2 attestations
+
+DISCOUNTS & PROMOTIONS
+======================
+
+Student Discount
+- 50% off annual plans
+- Valid student email required (.edu)
+- Applies to Starter and Professional plans
+- Limited to 1 account per student
+- Verification through Verifiable Credentials
+
+Non-Profit Discount
+- 40% off Professional plan
+- 501(c)(3) status required
+- Annual billing required for discount
+- Contact sales@company.com for eligibility
+
+Volume Discounts
+- 3+ teams: 10% discount
+- 10+ teams: 15% discount
+- 50+ teams: 20% discount
+- Custom tiered pricing available
+- Contact enterprise sales for quote
+
+Referral Program
+- Get ₹500 credit for each referral
+- Referral must convert to paying customer
+- Credits apply to your next billing cycle
+- Unlimited referrals (no maximum)
+- Share your referral link in account settings
+
+Seasonal Promotions
+- Black Friday: 25% off annual plans
+- New Year: 20% off annual plans
+- Back to School: 30% off student plans
+- Limited-time offers vary by season
+- Check email and dashboard for promotions
+
+UPGRADE & DOWNGRADE POLICY
+===========================
+
+Upgrades
+- Upgrade anytime to higher plan
+- Change takes effect immediately
+- Pro-rata billing for remaining month
+- Invoice shows combined charges
+- Upgrade confirmed via email
+
+Downgrades
+- Downgrade anytime to lower plan
+- Change takes effect at end of billing cycle
+- Receive credit for next month
+- No penalties or early termination fees
+- Data not affected by downgrade
+
+Plan Changes
+- Monthly to Annual: Can switch billing period
+- Annual to Monthly: Available at renewal
+- Add/Remove add-ons anytime
+- Multiple plan changes per year allowed
+- Contact support for complex changes
+
+SUPPORT & SLA
+=============
+
+Free Support (Starter Plan)
+- Email support only
+- Response time: 24-48 hours
+- Business hours: 9 AM - 6 PM EST, Monday-Friday
+
+Priority Support (Professional Plan)
+- Email and chat support
+- Response time: 2-4 hours
+- Business hours: 9 AM - 6 PM EST, Monday-Friday
+
+Premium Support (Enterprise Plan)
+- Phone, email, chat, and video support
+- Response time: 1 hour guaranteed
+- Available: 24/7/365
+
+SLA Guarantee (Enterprise Only)
+- 99.9% uptime guarantee
+- Service credits for breaches
+- Priority incident response
+- Dedicated support engineer
+- Quarterly business reviews
+
+CONTACT & SUPPORT
+================
+
+Email Support
+- support@company.com
+- Response within 24-48 hours
+
+Live Chat
+- Available Mon-Fri, 9 AM - 6 PM EST
+- Enterprise: 24/7 availability
+
+Phone Support (Enterprise Only)
+- +1-888-COMPANY (888-266-7926)
+- Available 24/7 for Enterprise
+
+Knowledge Base
+- self-service.company.com
+- Hundreds of tutorials and guides
+- Video training library
+- Community forum with expert tips
+
+Billing Questions
+- billing@company.com
+- Account management support
+
+Sales & Consultations
+- sales@company.com
+- Free consultation for Enterprise
+
+TERMS & CONDITIONS
+==================
+
+Agreement
+- By using our service, you accept these terms
+- Services provided "as-is"
+- Right to modify terms with 30-day notice
+- Automatic renewal unless canceled
+
+Prohibited Uses
+- Illegal activities or content
+- Hacking or unauthorized access
+- Spam or harassment
+- Malware or viruses
+- Resale without authorization
+- Violation of intellectual property
+
+Liability Limitation
+- Service provided without warranties
+- Liability limited to amount paid
+- Not liable for indirect or consequential damages
+- Backup your data regularly
+- Service interruptions possible
+
+Intellectual Property
+- You own your data
+- We own platform technology
+- You grant license to use your data
+- Cannot use our IP without permission
+- Trademarks and logos protected
+
+Changes & Updates
+- Features may be added or modified
+- Service improvements ongoing
+- Notifications of major changes
+- 30-day notice for significant changes
+- Downtime for maintenance possible
+
+ACCOUNT MANAGEMENT
+==================
+
+Team Invitations
+- Add users from Account Settings > Users
+- Invite multiple team members at once
+- Set roles: Admin, Manager, User
+- Remove users anytime
+- Activity logs show user actions
+
+Password Management
+- Change password in Settings > Security
+- Create strong passwords (12+ characters)
+- Two-factor authentication available
+- Automatic logout after inactivity
+- Session management for security
+
+Billing Contact
+- Update billing email anytime
+- Multiple billing contacts supported
+- Invoices sent to billing email
+- Receipts available in account
+- Tax documentation available
+
+REMOTE WORKING POLICY
+====================
+
+What is Remote Working?
+Remote working allows eligible employees to work from home or approved locations while maintaining full productivity and security standards.
+
+Who Can Work Remotely?
+- Full-time employees after 6 months of employment
+- Approved by direct manager and HR department
+- Some roles may have restrictions due to client requirements
+- Contract and part-time employees: Case-by-case basis
+
+Remote Work Requirements
+- Must use company VPN at all times (no exceptions)
+- Multi-factor authentication mandatory for all accounts
+- Secure, private workspace required (quiet environment)
+- Minimum internet connectivity: 10 Mbps download, 5 Mbps upload
+- Company-approved devices only (no personal laptops for work)
+- Updated antivirus and firewall software required
+- Never download company data to personal devices
+
+Work Schedule While Remote
+- Core work hours: 9 AM to 6 PM IST (Monday-Friday)
+- Flexible start times within core hours (with manager approval)
+- 1-hour lunch break (not deducted from work hours)
+- Must be available for team meetings and stand-ups
+- Daily stand-up at 10:00 AM IST is mandatory
+- Weekly team meetings participation required
+- Response time: 30 minutes during work hours
+
+Security Requirements
+- All work communication through company-approved tools only
+- Slack/Teams for chat; Email for formal communication
+- Never send sensitive data via personal email
+- Use encrypted messaging for confidential information
+- VPN disconnection results in immediate session end
+- Password-protect all devices
+- Lock computer when stepping away (even briefly)
+- Never access company systems from public WiFi
+- All devices subject to monthly security audits
+
+Office Requirements
+- Minimum 2 days per week in office required
+- First and third Friday are mandatory office days
+- Ad-hoc in-office meetings allowed with 24-hour notice
+- Quarterly team building sessions in office (mandatory)
+- Client meetings may require in-office presence
+
+Equipment & Reimbursements
+- Company provides: Laptop, VPN token, basic peripherals
+- Employee can request:
+  - Monitor reimbursement: Up to ₹5,000
+  - Keyboard/mouse: Up to ₹2,000
+  - Desk/chair: Up to ₹10,000 (one-time)
+  - Internet reimbursement: ₹500/month
+- All equipment must be returned upon separation
+- Damage charges apply for negligence
+
+Video Conference Requirements
+- Camera MUST be on during all client-facing meetings
+- Professional background required
+- Blur background or use company virtual backdrop
+- Proper lighting and audio quality essential
+- Test audio/video 5 minutes before meetings
+- Mute when not speaking in group calls
+
+Confidentiality & Data Security
+- Never discuss company matters in public spaces
+- Family members should not be in background during calls
+- No sharing of company documents on personal devices
+- Data must be deleted from personal devices after work
+- Breach of confidentiality: Subject to disciplinary action
+
+Monitoring & Compliance
+- Company may monitor VPN usage and activity logs
+- Desktop activity monitoring may be enabled
+- Email monitoring follows company policy
+- Regular security compliance checks conducted
+- Quarterly remote device security audits mandatory
+- Any security violations reported immediately
+
+Violations & Consequences
+- Unauthorized personal device use: Written warning
+- VPN disconnection during work hours: Disciplinary action
+- Security breach due to negligence: Suspension/Termination
+- Repeated non-compliance: Performance review impact
+- Intentional policy violation: Immediate termination
+
+Leave While Working Remotely
+- Annual leave: Document hand-over required
+- Sick leave: Notify manager by 9 AM on that day
+- Set out-of-office message with contact person
+- During leave, maintain emergency contact availability
+- No access to VPN during approved leave
+
+Equipment Troubleshooting
+- Contact IT support: 24/7 availability
+- Remote support available via TeamViewer/AnyDesk
+- Hardware replacement within 24 hours (if critical)
+- Internet issues: Use mobile hotspot as backup
+- VPN troubleshooting: Contact IT immediately
+
+Termination & Device Return
+- Upon separation, return all company equipment
+- 2-business-day deadline for device return
+- Inventory check-out process required
+- Data wipe performed by IT department
+- Final reimbursements processed within 30 days

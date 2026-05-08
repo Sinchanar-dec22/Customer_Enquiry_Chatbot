@@ -1,0 +1,44 @@
+TechNova Pricing Plans
+
+Starter Plan
+Price: ₹999/month
+
+Features:
+- Up to 5 users
+- Basic CRM dashboard
+- Email support
+- Basic analytics
+
+Professional Plan
+Price: ₹2999/month
+
+Features:
+- Up to 25 users
+- AI chatbot integration
+- Advanced analytics
+- API access
+- Priority support
+
+Enterprise Plan
+Price: Custom Pricing
+
+Features:
+- Unlimited users
+- Dedicated account manager
+- 24/7 premium support
+- Advanced AI automation
+- Custom integrations
+- SLA guarantee
+
+Add-On Services:
+- Additional Storage: ₹499/month
+- Premium Analytics: ₹999/month
+- Dedicated Support Engineer: ₹4999/month
+
+Billing Options:
+- Monthly
+- Quarterly
+- Annual
+
+Refund Policy:
+Refund requests accepted within 7 days of billing.

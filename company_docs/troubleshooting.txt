@@ -1,0 +1,49 @@
+Troubleshooting Guide
+
+Issue: Unable to login
+Solutions:
+- Verify email and password
+- Reset password
+- Check internet connection
+
+Issue: Dashboard loading slowly
+Solutions:
+- Clear browser cache
+- Disable browser extensions
+- Refresh application
+
+Issue: Payment failed
+Solutions:
+- Verify card details
+- Retry after 5 minutes
+- Contact bank if issue persists
+
+Issue: Chatbot not responding
+Solutions:
+- Verify API key configuration
+- Restart chatbot service
+- Check server logs
+
+Issue: File upload failed
+Solutions:
+- Ensure file size below 200MB
+- Use supported formats: TXT, PDF
+- Retry upload
+
+Issue: Reports not generating
+Solutions:
+- Refresh analytics dashboard
+- Clear cache
+- Retry after few minutes
+
+Issue: API authentication error
+Solutions:
+- Regenerate API token
+- Verify Authorization header
+- Ensure token not expired
+
+Issue: Email notifications delayed
+Solutions:
+- Check SMTP configuration
+- Verify email address
+- Retry sending notification

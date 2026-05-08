@@ -1,0 +1,97 @@
+TechNova Company Policies
+
+1. Password Policy
+- Minimum 12 characters
+- Must include uppercase, lowercase, number, and special character
+- Password expires every 90 days
+
+2. Remote Work Policy
+
+Remote Work Eligibility
+- Available after 6 months of employment
+- Approved by direct manager and HR
+- Roles with client-facing responsibilities may have restrictions
+- Full-time employees preferred for remote work
+
+Remote Work Requirements
+- Employees must use company VPN at all times
+- Multi-factor authentication (MFA) mandatory on all accounts
+- Secure, private workspace required
+- Minimum internet speed: 10 Mbps download, 5 Mbps upload
+- Company-approved devices only (no personal devices for work)
+- Antivirus and firewall software must be enabled
+
+Work Hours & Availability
+- Core work hours: 9 AM – 6 PM IST (Monday to Friday)
+- Must be available during team meetings and stand-ups
+- Flexible start/end times within core hours, with manager approval
+- Lunch break: 1 hour (not deducted from work hours)
+
+Communication & Meetings
+- Daily stand-ups via video conference (10:00 AM IST)
+- Weekly team meetings mandatory
+- All client meetings require video camera ON
+- Response time expectation: 30 minutes during work hours
+- Use company Slack/Teams for all work communication
+
+Security & Compliance
+- No unauthorized sharing of company data
+- Encrypted messaging for sensitive information
+- Monthly security compliance audits
+- Remote device security scans quarterly
+- VPN connection mandatory for accessing company systems
+- Never leave unlocked devices unattended
+
+Work-from-Office Requirements
+- Minimum 2 days per week in office (or as per project needs)
+- First and third Friday mandatory office days
+- Ad-hoc in-office meetings with 24-hour notice
+- Quarterly team-building sessions in office
+
+Leave While Remote Working
+- Annual leave: Work must be handed over before leave
+- Sick leave: Notification required by 9 AM
+- Out-of-office message with contact person mandatory
+- Emergency contact always active
+
+Equipment & Support
+- Company provides laptop and VPN hardware token
+- Monitor/peripherals reimbursable (₹5000 limit)
+- Internet reimbursement: ₹500/month
+- Technical support available 24/7
+- Equipment must be returned on separation
+
+Violations & Consequences
+- Unauthorized use of personal devices: Warning
+- VPN disconnection during work hours: Disciplinary action
+- Security breach due to negligence: Suspension/Termination
+- Repeated non-compliance: Performance review impact
+
+3. Leave Policy
+- Casual Leave: 12 days/year
+- Sick Leave: 10 days/year
+- Paid Leave: 18 days/year
+
+4. Data Protection Policy
+- Customer data encrypted using AES-256
+- Unauthorized sharing prohibited
+- Quarterly security audits conducted
+
+5. Device Usage Policy
+- Only company-approved software allowed
+- External USB devices restricted
+- Antivirus mandatory
+
+6. Incident Reporting Policy
+- Security incidents must be reported within 1 hour
+- Escalation matrix followed for critical incidents
+
+7. Refund Policy
+- Refund requests accepted within 7 days
+- Refunds processed within 5 business days
+
+8. Account Suspension Policy
+Accounts may be suspended for:
+- Payment failures
+- Security violations
+- Fraudulent activity
